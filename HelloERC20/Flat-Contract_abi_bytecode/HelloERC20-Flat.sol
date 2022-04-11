@@ -504,3 +504,4 @@ contract HelloERC20 is ERC20 {
         // balances[msg.sender] += 1000;
     }
 }
+
