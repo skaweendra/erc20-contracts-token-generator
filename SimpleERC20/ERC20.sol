@@ -29,6 +29,7 @@ contract ERC20 is Context, IERC20, IERC20Metadata {
      *
      * All two of these values are immutable: they can only be set once during
      * construction.
+     * Supply Type is fixed
      */
     constructor(string memory name_, string memory symbol_, uint8 decimals_, uint256 totalSupply_, uint256 initialSupply_) {
         _name = name_;
