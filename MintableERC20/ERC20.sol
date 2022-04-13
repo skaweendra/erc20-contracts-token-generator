@@ -76,6 +76,10 @@ contract ERC20 is Context, IERC20, IERC20Metadata {
         return _totalSupply;
     }
 
+    function initialSupply() public view virtual returns (uint256) {
+        return _initialSupply;
+    }
+
     /**
      * @dev See {IERC20-balanceOf}.
      */
