@@ -1,3 +1,3 @@
-https://ropsten.etherscan.io/verifyContract-solc-multiple?a=0x4492ba591cc2ed1ea1c79fb34eb3f0dd38f85f09&c=v0.8.7%2bcommit.e28d00a7&lictype=3
+https://testnet.bscscan.com/verifyContract-solc-multiple?a=0x0fe1b1151d281a9be9245018f18a946c1f96484b&c=v0.8.7%2bcommit.e28d00a7&lictype=3
 
 optimized
